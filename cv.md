@@ -16,7 +16,7 @@ At the moment my main goal is learning web development. I believe that I can lea
 ## Code example
 
 ## Experience
-* **My first project** - [CV]("https://alenademin.github.io/rsschool-cv/cv")
+* **My first project** - [CV](адрес "https://alenademin.github.io/rsschool-cv/cv")
 ## Education
 * **University**: Samara University, Journalism
 * **Courses**: HTML Academy
