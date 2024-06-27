@@ -3,9 +3,9 @@
 * **Location**: Samara, Russia
 * **Phone**: +79372039958
 * **Telegram**: @alenademina
+* * **Discord**: @alenana00
+  * * **Github**: [alenademin](адрес "https://github.com/alenademin")
 * **Email**: [alenaademina4@gmail.com](адрес "alenaademina4@gmail.com")
-* **Discord**:
-* **Github**:
 ## About me
 I graduated from the faculty of jouralism. I worked as an smm manager for two years. During this time I learned Adobe Photoshop and Adobe Illustrator. But most importantly I know how to work with a big amount of infornation and can quickly find answers to questions.
 At the moment my main goal is learning web development. I believe that I can learn new skills to work in this field. 
