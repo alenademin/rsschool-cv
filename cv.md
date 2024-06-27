@@ -3,7 +3,7 @@
 * **Location**: Samara, Russia
 * **Phone**: +79372039958
 * **Telegram**: @alenademina
-* **Email**: alenaademina4@gmail.com
+* **Email**: [alenaademina4@gmail.com](адрес "alenaademina4@gmail.com")
 * **Discord**:
 * **Github**:
 ## About me
@@ -14,13 +14,13 @@ At the moment my main goal is learning web development. I believe that I can lea
 * Git/GitHub
 * Adobe Photoshop, Adobe Illustrator
 ## Code example
-
 ## Experience
 * **My first project** - [CV](адрес "https://alenademin.github.io/rsschool-cv/cv")
 ## Education
 * **University**: Samara University, Journalism
-* **Courses**: HTML Academy
+* **Courses**: [HTML Academy](адрес "https://htmlacademy.ru/")
 ## English
 * **Russian** - native speaker
 * **English** - B1 (I passed the english exam at the end of school and studied at the faculty of philology and journalism)
 * **German** - A1 (I started to learn german at the university)
+* 
