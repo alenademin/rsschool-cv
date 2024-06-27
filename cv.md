@@ -23,4 +23,3 @@ At the moment my main goal is learning web development. I believe that I can lea
 * **Russian** - native speaker
 * **English** - B1 (I passed the english exam at the end of school and studied at the faculty of philology and journalism)
 * **German** - A1 (I started to learn german at the university)
-* 
